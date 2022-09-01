@@ -11,8 +11,6 @@
 
 - 📫 How to reach me **victoriamoraes42@gmail.com**
 
-- 📄 Know about my experiences [https://mr4s.github.io/pdfs/Curriculo_Victoria.pdf](https://mr4s.github.io/pdfs/Curriculo_Victoria.pdf)
-
 - ⚡ Fun fact **I love lifting heavy weights**
 
 <h3 align="left">Connect with me:</h3>
