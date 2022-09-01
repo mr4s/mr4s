@@ -1,7 +1,7 @@
 <h1 align="center">Heya, I'm Victoria</h1>
 <h3 align="center">A curious backend developer from Brazil</h3>
 
-- 🌱 I’m currently learning **how to make 2d games with pygame and the Rust language**
+- 🌱 I’m currently learning **the Rust language and how to make 2d games with pygame**
 
 - 💬 I'm trying to get better at **Python and C**
 
