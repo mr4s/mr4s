@@ -9,7 +9,7 @@
 
 - 📝 I regularly write articles on [https://medium.com/@mr4s](https://medium.com/@mr4s)
 
-- 📫 How to reach me **victoriamoraes42@gmail.com**
+- 📫 You can reach me at **victoriamoraes42@gmail.com**
 
 - ⚡ Fun fact **I love lifting heavy weights**
 
