@@ -7,7 +7,7 @@
 
 - 👨‍💻 All of my projects are available at [https://mr4s.github.io](https://mr4s.github.io)
 
-- 📝 I regularly write articles on [https://medium.com/@mr4s](https://medium.com/@mr4s)
+- 📝 I sometimes write articles on [https://medium.com/@mr4s](https://medium.com/@mr4s)
 
 - 📫 You can reach me at **victoriamoraes42@gmail.com**
 
