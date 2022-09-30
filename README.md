@@ -43,18 +43,16 @@
 <!-- Small repo cards (fork) - https://github.com/DenverCoder1/github-readme-stats -->
 
 <p align="center">
-  <a href="https://github.com/mr4s/CourseProjects/tree/main/pygames/feedthedragon"><img height="180" src="https://github.com/mr4s/CourseProjects/blob/main/pygames/feedthedragon/feedthedragon.png" alt="Feed the Dragon"></a>
-  <a href="https://github.com/mr4s/CourseProjects/tree/main/pygames/BurgerDog"><img height="180"  src="https://github.com/mr4s/CourseProjects/blob/main/pygames/BurgerDog/imagem_2022-09-30_110614156.png?raw=true" alt="Burger Dog"></a>
+  <a href="https://github.com/mr4s/CourseProjects/tree/main/pygames/feedthedragon"><img height="150" src="https://github.com/mr4s/CourseProjects/blob/main/pygames/feedthedragon/feedthedragon.png" alt="Feed the Dragon"></a>
+  <a href="https://github.com/mr4s/CourseProjects/tree/main/pygames/BurgerDog"><img height="150"  src="https://github.com/mr4s/CourseProjects/blob/main/pygames/BurgerDog/imagem_2022-09-30_110614156.png?raw=true" alt="Burger Dog"></a>
+  <a href="https://github.com/mr4s/CourseProjects/tree/main/pygames/MonsterWrangler"><img height="150" src="https://github.com/mr4s/CourseProjects/blob/main/pygames/MonsterWrangler/imagem_2022-09-30_111414593.png?raw=true" alt="Monster Wrangler"></a>
 </p>
   
 <p align="center">
-  <a href="https://github.com/mr4s/CourseProjects/tree/main/pygames/CatchTheClown"><img height="200" src="https://github.com/mr4s/CourseProjects/blob/main/pygames/CatchTheClown/imagem_2022-09-30_110057624.png?raw=true" alt="Catch the Clown"></a>
-  <a href="https://github.com/mr4s/CourseProjects/tree/main/pygames/SpaceInvaders"><img height="200" src="https://github.com/mr4s/CourseProjects/blob/main/pygames/SpaceInvaders/imagem_2022-09-30_110920275.png?raw=true" alt="Space Invaders"></a>
+  <a href="https://github.com/mr4s/CourseProjects/tree/main/pygames/CatchTheClown"><img height="180" src="https://github.com/mr4s/CourseProjects/blob/main/pygames/CatchTheClown/imagem_2022-09-30_110057624.png?raw=true" alt="Catch the Clown"></a>
+  <a href="https://github.com/mr4s/CourseProjects/tree/main/pygames/SpaceInvaders"><img height="180" src="https://github.com/mr4s/CourseProjects/blob/main/pygames/SpaceInvaders/imagem_2022-09-30_110920275.png?raw=true" alt="Space Invaders"></a>
 </p>
 
-<p align="center">
-  <a href="https://github.com/mr4s/CourseProjects/tree/main/pygames/MonsterWrangler"><img height="180" src="https://github.com/mr4s/CourseProjects/blob/main/pygames/MonsterWrangler/imagem_2022-09-30_111414593.png?raw=true" alt="Monster Wrangler"></a>
-</p>
 
 <p align="left">
   <a href="https://github.com/mr4s/CourseProjects/"><img alt="All Repositories" title="All Repositories" src="https://custom-icon-badges.demolab.com/badge/-All%20Repos-2962FF?style=for-the-badge&logoColor=white&logo=repo"/></a>
