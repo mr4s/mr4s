@@ -94,7 +94,7 @@
 
 <p>
     <a href="#"><img alt="Arduino" src="https://img.shields.io/badge/-Arduino-00979D?logo=Arduino&logoColor=white"></a>
-    <a href="#"><img alt="Pygame" src="https://img.shields.io/badge/Pygame-013243.svg?logo=pygame"></a>
+    <a href="#"><img alt="Pygame" src="https://custom-icon-badges.demolab.com/badge/Pygame-013243.svg?logo=pygame"></a>
     <a href="#"><img alt="RaspberryPi" src="https://img.shields.io/badge/RaspberryPi-150458.svg?logo=raspberrypi&logoColor=white"></a>
     <a href="#"><img alt="ISO8583" src="https://img.shields.io/badge/ISO8583-20232a.svg?logo=pulse&logoColor=white"></a>
     
