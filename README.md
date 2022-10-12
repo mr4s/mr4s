@@ -87,6 +87,7 @@
     <a href="https://github.com/search?q=user%3Amr4s+language%3Amarkdown"><img alt="Markdown" src="https://img.shields.io/badge/Markdown-000000.svg?logo=markdown&logoColor=white"></a>
     <a href="#"><img alt="Micropython" src="https://custom-icon-badges.demolab.com/badge/Mycropython-0A9EDC.svg?logo=micropython&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Amr4s+language%3Asql"><img alt="SQL" src="https://custom-icon-badges.demolab.com/badge/SQL-025E8C.svg?logo=database&logoColor=white"></a>
+    <a href="https://github.com/search?q=user%3Amr4s+language%3Abash"><img alt="Bash" src="https://img.shields.io/badge/Bash-green.svg?logo=gnubash&logoColor=white"></a>
     <a href="https://github.com/search?q=user%3Amr4s+language%3Arust"><img alt="Rust" src="https://custom-icon-badges.demolab.com/badge/Rust-ff3c0c.svg?logo=rust&logoColor=white"></a>
 
 </p>
