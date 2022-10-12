@@ -51,6 +51,7 @@
 <p align="center">
   <a href="https://github.com/mr4s/CourseProjects/tree/main/pygames/CatchTheClown"><img height="180" src="https://github.com/mr4s/CourseProjects/blob/main/pygames/CatchTheClown/imagem_2022-09-30_110057624.png?raw=true" alt="Catch the Clown"></a>
   <a href="https://github.com/mr4s/CourseProjects/tree/main/pygames/SpaceInvaders"><img height="180" src="https://github.com/mr4s/CourseProjects/blob/main/pygames/SpaceInvaders/imagem_2022-09-30_110920275.png?raw=true" alt="Space Invaders"></a>
+  <a href="https://github.com/mr4s/CourseProjects/tree/main/pygames/ZombieKnight"><img height="180" src="https://github.com/mr4s/CourseProjects/blob/main/pygames/ZombieKnight/zombieknight.png?raw=true" alt="Zombie Knight"></a>
 </p>
 
 
