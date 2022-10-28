@@ -149,6 +149,9 @@
 
 <!-- Some badges are from https://github.com/Ileriayo/markdown-badges -->
 
+## 📌 Holopin Badges
+
+[![@mr4s's Holopin board](https://holopin.me/mr4s)](https://holopin.io/@mr4s)
 
 ## 📊 Github stats
 
@@ -171,3 +174,5 @@
 <!-- https://github.com/ashutosh00710/github-readme-activity-graph -->
 
 <a href="https://github.com/ashutosh00710/github-readme-activity-graph"><img alt="mr4s's Activity Graph" src="https://denvercoder1-activity-graph.herokuapp.com/graph/?username=mr4s&bg_color=1F222E&color=F8D866&line=F85D7F&point=FFFFFF&hide_border=true" /></a>
+  
+  
